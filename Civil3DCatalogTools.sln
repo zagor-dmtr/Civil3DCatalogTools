@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D2019CatalogTools", "Civil3D2019CatalogTools\Civil3D2019CatalogTools.csproj", "{4019B5B4-56E0-4073-B0FB-1DE604164B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4019B5B4-56E0-4073-B0FB-1DE604164B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4019B5B4-56E0-4073-B0FB-1DE604164B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4019B5B4-56E0-4073-B0FB-1DE604164B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4019B5B4-56E0-4073-B0FB-1DE604164B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8992E8A-A43B-4ABE-B0CE-C0A448612FD1}
+	EndGlobalSection
+EndGlobal

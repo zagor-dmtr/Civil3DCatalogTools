@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Dmitriy Zagorulkin</authors>   
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>   
+    <description>Tools for Autodesk Civil 3D Pipes Catalog</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Autodesk Civil3D 2019 API PipesCatalog PartFamily</tags>
+  </metadata>
+</package>
